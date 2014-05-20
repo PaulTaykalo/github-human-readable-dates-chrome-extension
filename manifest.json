@@ -1,0 +1,21 @@
+{
+  "manifest_version": 2,
+
+  "name": "Github old date-format",
+  "description": "This extension enables showing dates on the github in old, human-readable format",
+  "version": "1.0",
+
+   "icons":{
+      "128":"icon_128.png"
+   },
+
+  "manifest_version": 2,
+
+   "content_scripts":[
+      {
+         "matches":["https://github.com/*"],
+         "js":["jquery.min.js","moment.js", "change-dates.js"]
+      }
+   ]
+
+}
