@@ -5,7 +5,7 @@ Extension for google chrome, that returns the old-fashioned dates for commit dat
 
 Clone this project  
 
-[https://developer.chrome.com/extensions/getstarted#unpacked](Setup extension from the source)  
+[Setup extension from the source](https://developer.chrome.com/extensions/getstarted#unpacked)  
 
 =====
 
