@@ -6,3 +6,7 @@ Extension for google chrome, that returns the old-fashioned dates for commit dat
 Clone this project  
 
 [https://developer.chrome.com/extensions/getstarted#unpacked](Setup extension from the source)  
+
+=====
+
+It will just update dates on first page load. Will not work on the pages those will be loaded after.
