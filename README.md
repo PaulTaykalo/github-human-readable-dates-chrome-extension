@@ -1,4 +1,4 @@
-github-human-readable-dates-chrome-extension
+Old style, human readable date format for Github dates
 ============================================
 
 Extension for google chrome, that returns the old-fashioned dates for commit dates, event-dates and all other things
