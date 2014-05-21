@@ -2,8 +2,10 @@ github-human-readable-dates-chrome-extension
 ============================================
 
 Extension for google chrome, that returns the old-fashioned dates for commit dates, event-dates and all other things
-![Example](https://raw.githubusercontent.com/PaulTaykalo/github-human-readable-dates-chrome-extension/master/images/github-date-conversion.png)
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PaulTaykalo/github-human-readable-dates-chrome-extension/master/images/github-date-conversion.png"/>
+</p>
 =====
 
 [Install extension from Chrome Web Store](https://chrome.google.com/webstore/detail/pmhoikolafddadkbllmcbabcghhflcpa)
