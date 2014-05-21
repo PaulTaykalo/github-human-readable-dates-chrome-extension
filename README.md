@@ -3,13 +3,17 @@ github-human-readable-dates-chrome-extension
 
 Extension for google chrome, that returns the old-fashioned dates for commit dates, event-dates and all other things
 
-Clone this project  
-
-[Setup extension from the source](https://developer.chrome.com/extensions/getstarted#unpacked)  
-
 =====
 
 [Install extension from Chrome Web Store](https://chrome.google.com/webstore/detail/pmhoikolafddadkbllmcbabcghhflcpa)
+
+=====
+
+**OR**
+
+Clone this project  
+
+[Setup extension from the source](https://developer.chrome.com/extensions/getstarted#unpacked)  
 
 =====
 
