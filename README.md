@@ -1,7 +1,7 @@
 Old style, human readable date format for Github dates
 ============================================
 
-Extension for google chrome, that returns the old-fashioned dates for commit dates, event-dates and all other things
+Extension for Google Chrome, that returns the old-fashioned dates for commit dates, event-dates and all other things
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/PaulTaykalo/github-human-readable-dates-chrome-extension/master/images/github-date-conversion.png"/>
