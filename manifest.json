@@ -14,7 +14,7 @@
    "content_scripts":[
       {
          "matches":["https://github.com/*"],
-         "js":["jquery.min.js","moment.js", "change-dates.js"]
+         "js":["jquery.min.js","jquery.ba-throttle-debounce.min.js","moment.js", "change-dates.js"]
       }
    ]
 
