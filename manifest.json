@@ -3,7 +3,7 @@
 
   "name": "Github old date-format",
   "description": "This extension enables showing dates on the github in old, human-readable format",
-  "version": "1.0",
+  "version": "1.0.1",
 
    "icons":{
       "128":"icon_128.png"
