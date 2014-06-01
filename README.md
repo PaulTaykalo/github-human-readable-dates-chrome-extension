@@ -18,7 +18,4 @@ Clone this project
 
 [Setup extension from the source](https://developer.chrome.com/extensions/getstarted#unpacked)  
 
-=====
 
-**NOTE**
-It will just update dates on first page load. Will not work on the pages those will be loaded after.
